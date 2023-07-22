@@ -1,0 +1,200 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:blanchedalmond;
+}
+header{
+    background-color: chocolate;
+    width: 100%;
+    height: 70px;
+}
+
+.logo{
+    margin-top: -70px;
+    margin-left: 20px;
+}
+
+.head{
+     margin-top: -50px;
+    text-align: center;
+    color: white;
+}
+
+#detail{
+     width: 17.5%;
+    height: 50px;
+    background-color: burlywood; 
+    margin-top: 21px;
+}
+
+.conlink{
+    background-color: burlywood;
+    width: 17.5%;
+    height: 800px;
+}
+
+.detsub{
+    text-align: center;
+}
+
+.detname{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.link{
+    background-color:chocolate;
+    
+    border: 0;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    
+    }
+
+.a {
+    color: black;
+}
+
+.llink{
+    
+    color: black;
+    border: 0;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    }
+
+.tblink{
+    background-color:chocolate;
+    border-radius: 7px;
+    
+}
+
+
+.alert{
+    background-color:aquamarine;
+    width: 1000px;
+     margin-left: 250px;
+    height: 60px;
+    border-radius: 10px;
+    
+}
+
+.msg{
+    margin-left: 20px;
+   padding-top: 17px;
+    color: blueviolet;
+    font-family:serif;
+}
+
+.dash{
+    margin-left: 250px;
+    
+}
+.title{
+    margin-left: 250px;
+    margin-top: -830px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+hr{
+    margin-left: 250px;
+    width: 1000px;
+    color: white;
+        
+}
+
+.tbdetail{
+    background-color:darkkhaki;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+    border-bottom-style:double;
+    border-bottom-color:darkgoldenrod;
+}
+
+.mainlist{
+    
+    margin-left: 450px;
+    background-color: white;
+}
+.tbaccept{
+    background-color: mediumblue;
+    border-color: mediumblue;
+    border-radius: 5px;
+    
+}
+
+.rowbla{
+    background-color: beige;
+}
+
+.tbupdate{
+    margin-left: 500px;
+}
+
+.tbpay{
+    margin-left: 240px;
+
+}
+
+.tbadmin{
+    margin-left: 230px;
+
+}
+
+
+.tbalert{
+     margin-left: 460px;
+
+}
+
+.gettdup{
+    background-color: beige;
+    border: 0;
+    width: 300px;
+    height:  40px;
+}
+
+.date{
+    background-color: beige;
+    border: 0;
+    width: 50px;
+    height:  40px;
+}
+
+.dateyear{
+     background-color: beige;
+    border: 0;
+    width: 60px;
+    height:  40px;
+}
+
+.btnupda{
+     width: 170px;
+    height: 30px;
+    background-color: darkgreen;
+    border-radius: 6px;
+     border: 0;
+     color: white;
+    font-size: 20px;
+}
+
+
+.vecuinfo{
+    margin-left: 330px;
+}
+
+.veinfo{
+    margin-left: 450px;
+}
+
+.mee{
+    text-decoration: none;
+}
+
+

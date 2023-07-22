@@ -1,0 +1,231 @@
+body{
+    background-image: url(/me/img/body_bg.png);
+}
+
+
+
+.question{
+	margin-top: -4px;
+	float: right;
+	margin-right: 30px;
+}
+
+.gettxt{
+    height: 30px;
+    width: 150px;
+    background-color:beige;
+    border-color: white;
+    border: 0;
+}
+
+.btnsub{
+    width: 170px;
+    height: 30px;
+    background-color: darkgreen;
+    border-radius: 6px;
+     border: 0;
+     color: white;
+    font-size: 20px;
+}
+
+.getimg{
+     padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+/* Center the loader */
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid Green;
+  width: 120px;
+    border-bottom: 16px solid Green;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+   
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 2s;
+  animation-name: animatebottom;
+  animation-duration: 2s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+ padding-left: 40px;
+ margin-top: -320px;
+}
+
+.fea{
+
+	margin-left: 80px;
+	margin-top: 60px;
+}
+
+.btnfea{
+    width: 80px;
+    height: 20px;
+border-radius: 4px;
+     border: 0;
+    background-color: darkgreen;
+    color: white;
+    font-size: 10px;
+    
+}
+
+.linlfea{
+    text-decoration:none;
+    
+}
+
+#sus{
+	display: none;
+	text-align: center;
+  background-color: white;
+    
+    
+}
+
+
+.thpr{
+    margin-left: 130px;
+    margin-right: 145px;
+    margin-top: 50px;
+    background-color:white;
+     height: 500px;
+    border-radius: 30px;
+    
+}
+
+
+
+#getqu{
+     margin-left: 130px;
+    margin-right: 145px;
+    margin-top: 50px;
+    background-color:white;
+     height: 1200px;
+    border-radius: 10px;
+    
+}
+
+#thridparty{
+    margin-left: 130px;
+    margin-right: 145px;
+    margin-top: 98px;
+    background-color:white;
+     height: 600px;
+    border-radius: 10px;
+    
+}
+
+.thpcar{
+     padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.thridque{
+    margin-top: -340px;
+	float: right;
+	margin-right: 50px;
+}
+
+.box{
+    height: 30px;
+    width: 170px;
+    background-color:beige;
+    border-color: white;
+    border: 0;
+    
+}
+
+.btn{
+     width: 170px;
+    height: 30px;
+    background-color: darkgreen;
+    border-radius: 6px;
+     border: 0;
+     color: white;
+    font-size: 20px;
+}
+
+#loog{
+    
+    margin-left: 130px;
+    margin-right: 145px;
+    margin-top: 50px;
+    background-color:azure;
+     height: 600px;
+    border-radius: 10px;
+}
+
+.tablog{
+     margin-left: 300px;
+    
+}
+
+.date{
+    height: 30px;
+    width: 40px;
+    background-color:beige;
+    border-color: white;
+    border: 0;
+}
+
+.dateyear{
+    height: 30px;
+    width: 50px;
+    background-color:beige;
+    border-color: white;
+    border: 0;
+}
+
+.linkth{
+    margin-left: 250px;
+}
+
+.veup{
+    background-image:url(img/body_bg.png);
+}
+
+.tbup{
+    background-color: beige;
+    border: 0;
+    width: 200px;
+    height:  30px;
+}
