@@ -3,7 +3,7 @@ Alx frontend projects
 
 ## Overview
 
-The Online Auto-Insurance Platform is a modern and efficient web application that revolutionizes the insurance industry by providing an online platform for auto insurance services. This project is a collaborative effort by Oyeniyi Emmanuel, Ogundimine Yetunde, and Emmanuel Chibuzor Amadi. The platform allows users to apply for and manage their auto insurance policies conveniently from the comfort of their homes. It also features a policy recommendation engine to suggest suitable insurance packages based on customer data.
+The Online Auto-Insurance Platform is a modern and efficient web application that revolutionizes the insurance industry by providing an online platform for auto insurance services. This project is a collaborative effort by Oyeniyi Emmanuel, Ogundimine Aderonke Yetunde, and Emmanuel Chibuzor Amadi. The platform allows users to apply for and manage their auto insurance policies conveniently from the comfort of their homes. It also features a policy recommendation engine to suggest suitable insurance packages based on customer data.
 
 ## Features
 
