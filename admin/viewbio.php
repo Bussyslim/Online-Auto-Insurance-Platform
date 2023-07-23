@@ -155,7 +155,7 @@ while ($row = mysqli_fetch_assoc($result)) { ?>
           <div align="center">Email 
             </label>
             <br>
-            <input type="text" class="gettdup" value="<?php echo $_SESSION ['em'];?>" > 
+            <input type="text" class="gettdup" value="<?php echo $row['email'];?>" > 
         </div></td>
       </tr>
 
