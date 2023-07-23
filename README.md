@@ -21,8 +21,8 @@ The Online Auto-Insurance Platform is a modern and efficient web application tha
 
 ## Technology Stack
 
-- Frontend: HTML, CSS, JavaScript (with React.js for enhanced interactivity)
-- Backend: PHP (Laravel framework)
+- Frontend: HTML, CSS, JavaScript 
+- Backend: PHP 
 - Database: MySQL
 
 ## Getting Started
